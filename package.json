@@ -1,0 +1,25 @@
+{
+  "name": "lightnesscorrection",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JovanStoj/lightnesscorrectionettest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JovanStoj/lightnesscorrectionettest/issues"
+  },
+  "homepage": "https://github.com/JovanStoj/lightnesscorrectionettest#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
